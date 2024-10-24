@@ -1,0 +1,14 @@
+name: minimalds
+channels:
+  - conda-forge
+  
+dependencies:
+  - python=3.6
+  - requests
+  - pandas
+  - beautifulsoup4
+  - selenium
+  - streamlit
+  - numpy
+  - matplotlib
+  
